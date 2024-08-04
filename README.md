@@ -1,6 +1,5 @@
 <div align="center">
-<br>
-<a href="#--ubuntu-2404-lts-noble-numbat-hyprland-install-script-branch-"><kbd> <br> Ubuntu 24.04 LTS <br> </kbd></a>&ensp;&ensp;  
+<br> 
   <a href="#-announcement-"><kbd> <br> Read this First <br> </kbd></a>&ensp;&ensp;
   <a href="#-to-use-this-script"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
   <a href="#gallery-and-videos"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
