@@ -1,22 +1,23 @@
 <div align="center">
-<br> 
+<br>
+<a href="#--ubuntu-2404-lts-noble-numbat-hyprland-install-script-branch-"><kbd> <br> Ubuntu 24.04 LTS <br> </kbd></a>&ensp;&ensp;  
   <a href="#-announcement-"><kbd> <br> Read this First <br> </kbd></a>&ensp;&ensp;
   <a href="#-to-use-this-script"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
   <a href="#gallery-and-videos"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
  </div><br>
 <div align="center">
 
-## 💌 JaKooLit's Debian/Ubuntu Hyprland Install Script 💌
+## 💌 JaKooLit's Debian/Ubuntu Hyprland Install Script forked to install beta nvidia driver instead 💌
 #### For Debian 13 Trixie (Testing) and SID (unstable) and Ubuntu 24.04 Noble Numbat
 
-![GitHub Repo stars](https://img.shields.io/github/stars/JaKooLit/Debian-Hyprland?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/Debian-Hyprland?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/JaKooLit/Debian-Hyprland?style=for-the-badge&color=cba6f7) <a href="https://discord.gg/9JEgZsfhex"> <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%9JEgZsfhex"> </a>
+![GitHub Repo stars](https://img.shields.io/github/stars/j0hnVu/Debian-Hyprland?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/j0hnVu/Debian-Hyprland?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/j0hnVu/Debian-Hyprland?style=for-the-badge&color=cba6f7) <a href="https://discord.gg/9JEgZsfhex"> <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%9JEgZsfhex"> </a>
 
 <br/>
 </div>
 
-<img src="https://raw.githubusercontent.com/JaKooLit/Telegram-Animated-Emojis/main/Symbols/Double%20Exclamation%20Mark.webp" alt="Double Exclamation Mark" width="40" height="40" />  For Ubuntu 24.04 Noble Numbat users, click the link below. This will take you to specific branch of this repo
+<img src="https://raw.githubusercontent.com/j0hnVu/Telegram-Animated-Emojis/main/Symbols/Double%20Exclamation%20Mark.webp" alt="Double Exclamation Mark" width="40" height="40" />  For Ubuntu 24.04 Noble Numbat users, click the link below. This will take you to specific branch of this repo
 <h4 align="left">
-  <a href="https://github.com/JaKooLit/Debian-Hyprland/tree/Ubuntu-24.04-LTS">Ubuntu 24.04 LTS Noble Numbat Hyprland install script branch </a><br><br>
+  <a href="https://github.com/j0hnVu/Debian-Hyprland/tree/Ubuntu-24.04-LTS">Ubuntu 24.04 LTS Noble Numbat Hyprland install script branch </a><br><br>
 </h4>
 
 <div align="center">
@@ -25,23 +26,23 @@
 </div>
 <div align="center">
 <br>
-  <a href="https://github.com/JaKooLit/Hyprland-Dots"><kbd> <br> Hyprland-Dots repo <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/j0hnVu/Hyprland-Dots"><kbd> <br> Hyprland-Dots repo <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Keybinds <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/FAQ"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/j0hnVu/Hyprland-Dots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/j0hnVu/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Keybinds <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/j0hnVu/Hyprland-Dots/wiki/FAQ"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
   <a href="https://discord.gg/9JEgZsfhex"><kbd> <br> Discord <br> </kbd></a>
 </div><br>
 
 <h3 align="center">
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+	<img src="https://github.com/j0hnVu/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 	KooL Hyprland-Dotfiles Showcase 
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+	<img src="https://github.com/j0hnVu/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 </h3>
 
 <div align="center">
 
-https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/50d53755-0f11-45d6-9913-76039e84a2cd
+https://github.com/j0hnVu/Hyprland-Dots/assets/85185940/50d53755-0f11-45d6-9913-76039e84a2cd
 
 </div>
 
@@ -67,7 +68,7 @@ sudo nano /etc/apt/sources.list
 - delete # on the lines with 'deb-src' 
 - ensure to allow to install non-free drivers especially for users with NVIDIA gpus. You can also install non-free drivers if required. Edit install-scripts/nvidia.sh and change the nvidia stuff's if required
 
-- If you have login Manager already like GDM (gnome login manager), I highly advice not to install SDDM. But if you decide to install SDDM, see here [`Issue 2 - SDDM`](https://github.com/JaKooLit/Debian-Hyprland/issues/2)
+- If you have login Manager already like GDM (gnome login manager), I highly advice not to install SDDM. But if you decide to install SDDM, see here [`Issue 2 - SDDM`](https://github.com/j0hnVu/Debian-Hyprland/issues/2)
 
 
 
@@ -76,7 +77,7 @@ sudo nano /etc/apt/sources.list
 
 > [!WARNING] 
 > If you have GDM already as log-in manager, DO NOT install SDDM
-> You will encounter issues. See [`Issue 2 - SDDM`](https://github.com/JaKooLit/Debian-Hyprland/issues/2)
+> You will encounter issues. See [`Issue 2 - SDDM`](https://github.com/j0hnVu/Debian-Hyprland/issues/2)
 
 
 ### Gallery and Videos
@@ -86,26 +87,26 @@ sudo nano /etc/apt/sources.list
 </summary>
 
 <p align="center">
-    <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Distro-Hyprland/Debian/debian.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Distro-Hyprland/Debian/debian2.png" />       
+    <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Distro-Hyprland/Debian/debian.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Distro-Hyprland/Debian/debian2.png" />       
 </p>
 
 <p align="center">
-    <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/default-waybar.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Distro-Hyprland/Debian/debian4.png" />   
-   <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/wlogout-dark.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Distro-Hyprland/Debian/hyprlock.png"" /> 
-   <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/waybar-layout.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/waybar-style.png"" /> 
+    <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Hyprland-Dots-Showcase/default-waybar.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Distro-Hyprland/Debian/debian4.png" />   
+   <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Hyprland-Dots-Showcase/wlogout-dark.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Distro-Hyprland/Debian/hyprlock.png"" /> 
+   <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Hyprland-Dots-Showcase/waybar-layout.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/j0hnVu/screenshots/main/Hyprland-Dots-Showcase/waybar-style.png"" /> 
 </p>
 
 #### ❕ Installed on Kali Linux 😈
 
-![alt text](https://github.com/JaKooLit/screenshots/blob/main/Hyprland-ScreenShots/Debian/Kali-Linux1.png)
+![alt text](https://github.com/j0hnVu/screenshots/blob/main/Hyprland-ScreenShots/Debian/Kali-Linux1.png)
 
 #### ❕ Installed on Ubuntu 24.04 LTS with Nvidia Laptop 😷 
-![alt text](https://github.com/JaKooLit/screenshots/blob/main/Distro-Hyprland/Ubuntu/Ubuntu-24.04-nvidia.png)
+![alt text](https://github.com/j0hnVu/screenshots/blob/main/Distro-Hyprland/Ubuntu/Ubuntu-24.04-nvidia.png)
 
 
-#### 📷 More updated Screenshots Here [`Link`](https://github.com/JaKooLit/screenshots/tree/main/Hyprland-Dots-Showcase)
+#### 📷 More updated Screenshots Here [`Link`](https://github.com/j0hnVu/screenshots/tree/main/Hyprland-Dots-Showcase)
 
-#### 📷 Older Screenshots: v1[`Link`](https://github.com/JaKooLit/screenshots/tree/main/Hyprland-ScreenShots/Debian) & v2[`Link`](https://github.com/JaKooLit/screenshots/tree/main/Hyprland-ScreenShots/Debian-v2)
+#### 📷 Older Screenshots: v1[`Link`](https://github.com/j0hnVu/screenshots/tree/main/Hyprland-ScreenShots/Debian) & v2[`Link`](https://github.com/j0hnVu/screenshots/tree/main/Hyprland-ScreenShots/Debian-v2)
 
 </details>
 
@@ -129,17 +130,17 @@ sudo nano /etc/apt/sources.list
 </details>
 
 ### 🪧🪧🪧 ANNOUNCEMENT 🪧🪧🪧
-- This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/JaKooLit/Hyprland-Dots) . During installation, if you opt to copy pre-configured dots, it will be downloaded from that centralized repo.
-- Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Changelogs)
+- This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/j0hnVu/Hyprland-Dots) . During installation, if you opt to copy pre-configured dots, it will be downloaded from that centralized repo.
+- Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/j0hnVu/Hyprland-Dots/wiki/Changelogs)
 - Since the Hyprland-Dots are evolving, some of the screenshots maybe old
-- the wallpaper offered to be downloaded towards the end is from this [`REPO`](https://github.com/JaKooLit/Wallpaper-Bank)
+- the wallpaper offered to be downloaded towards the end is from this [`REPO`](https://github.com/j0hnVu/Wallpaper-Bank)
 
 #### ✨  Some notes on this installer / Prerequisites
 - This script is meant to install in Debian Testing (Trixie) and Debian Unstable (SID). This script Will NOT work with Bookworm
 - If However, decided to try, recommend to install SDDM. Apart from GDM and SDDM, any other Login Manager may not work nor launch Hyprland. However, hyprland can be launched through tty by type Hyprland
 - 🕯️ network-manager-gnome (nm-applet) has been removed from the packages to install. This is because it is known to restart the networkmanager causing issues in the installation process. After you boot up, inorder to get the network-manager applet, install network-manager-gnome. `sudo apt install network-manager-gnome` See below if your network or wifi became unmanaged after installation
 - If you have nvidia, and wanted to use proprietary drivers, uninstall nouveau first (if installed). This script will be installing proprietary nvidia drivers and will not deal with removal of nouveau.
-- NVIDIA users / owners, after installation, check [`THIS`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Notes_to_remember#--for-nvidia-gpu-users)
+- NVIDIA users / owners, after installation, check [`THIS`](https://github.com/j0hnVu/Hyprland-Dots/wiki/Notes_to_remember#--for-nvidia-gpu-users)
  
 #### ⚠️ WARNING! nwg-look takes long time to install. 
 - nwg-look is a utility to costumize your GTK theme. It's a LXAppearance like. Its a good tool though but this package is entirely optional
@@ -148,8 +149,8 @@ sudo nano /etc/apt/sources.list
 - inside the install-scripts directory, you can edit 00-hypr-pkgs.sh. Do not edit 00-dependencies.sh unless you know what you are doing. Care though as the Hyprland Dots may not work properly!
 
 #### 💫 SDDM and GTK Themes offered
-- If you opted to install SDDM theme, here's the [`LINK`](https://github.com/JaKooLit/simple-sddm)
-- If you opted to install GTK Themes, Icons here's the [`LINK`](https://github.com/JaKooLit/GTK-themes-icons) & Bibata Cursor Modern Ice (assets directory)
+- If you opted to install SDDM theme, here's the [`LINK`](https://github.com/j0hnVu/simple-sddm)
+- If you opted to install GTK Themes, Icons here's the [`LINK`](https://github.com/j0hnVu/GTK-themes-icons) & Bibata Cursor Modern Ice (assets directory)
 
 #### 🔔 NOTICE TO NVIDIA OWNERS ### 
 - by default it is installing the latest and newest nvidia drivers. If you have an older nvidia-gpu (GTX 800 series and older), check out nvidia-debian website [`LINK`](https://wiki.debian.org/NvidiaGraphicsDrivers) and edit nvidia.sh in install-scripts directory to install proper gpu driver
@@ -163,13 +164,13 @@ sudo nano /etc/apt/sources.list
 ## ✨ to use this script
 > clone this repo (latest commit only) by using git. Change directory, make executable and run the script
 ```bash
-git clone --depth=1 https://github.com/JaKooLit/Debian-Hyprland.git ~/Debian-Hyprland
+git clone --depth=1 https://github.com/j0hnVu/Debian-Hyprland.git ~/Debian-Hyprland
 cd ~/Debian-Hyprland
 chmod +x install.sh
 ./install.sh
 ```
 <p align="center">
-    <img align="center" width="100%" src="https://raw.githubusercontent.com/JaKooLit/Debian-Hyprland/main/Debian-Install.png" />
+    <img align="center" width="100%" src="https://raw.githubusercontent.com/j0hnVu/Debian-Hyprland/main/Debian-Install.png" />
 
 
 > [!NOTE]
@@ -177,7 +178,7 @@ chmod +x install.sh
 > For Ubuntu 24.04 LTS, no need to edit the /etc/apt/sources.list
 > A separate branch have been created for Ubuntu 24.04 ONLY
 ```bash
-git clone --depth=1 -b Ubuntu-24.04-LTS https://github.com/JaKooLit/Debian-Hyprland.git ~/Ubuntu-Hyprland
+git clone --depth=1 -b Ubuntu-24.04-LTS https://github.com/j0hnVu/Debian-Hyprland.git ~/Ubuntu-Hyprland
 cd ~/Ubuntu-Hyprland
 chmod +x install.sh
 ./install.sh
@@ -196,7 +197,7 @@ source ~/.zshrc
 
 #### ✨ TO DO once installation done and dotfiles copied
 - SUPER H for HINT or click on the waybar HINT! Button 
-- Head over to [FAQ](https://github.com/JaKooLit/Hyprland-Dots/wiki/FAQ) and [TIPS](https://github.com/JaKooLit/Hyprland-Dots/wiki/TIPS)
+- Head over to [FAQ](https://github.com/j0hnVu/Hyprland-Dots/wiki/FAQ) and [TIPS](https://github.com/j0hnVu/Hyprland-Dots/wiki/TIPS)
 
 
 - if you installed in your laptop and Brightness and Keyboard brightness does not work you can execute this command `sudo chmod +s $(which brightnessctl)`
@@ -231,17 +232,17 @@ source ~/.zshrc
 - At this time the packages force to install are the following `imagemagick`
 
 #### 🫥 Improving performance for Older Nvidia Cards using driver 470
-  - [`SEE HERE`](https://github.com/JaKooLit/Hyprland-Dots/discussions/123#discussion-6035205)
+  - [`SEE HERE`](https://github.com/j0hnVu/Hyprland-Dots/discussions/123#discussion-6035205)
   
 #### 🙋  Got a questions regarding the Hyprland Dots configurations? 🙋
-- Head over to wiki Link [`WIKI`](https://github.com/JaKooLit/Hyprland-Dots/wiki)
+- Head over to wiki Link [`WIKI`](https://github.com/j0hnVu/Hyprland-Dots/wiki)
 
 #### ⌨ Keybinds
-- Keybinds [`CLICK`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds)
+- Keybinds [`CLICK`](https://github.com/j0hnVu/Hyprland-Dots/wiki/Keybinds)
 
 #### 🙋 👋 Having issues or questions? 
 - for the install part, kindly open issue on this repo
-- for the Pre-configured Hyprland dots / configuration, submit issue [`here`](https://github.com/JaKooLit/Hyprland-Dots/issues)
+- for the Pre-configured Hyprland dots / configuration, submit issue [`here`](https://github.com/j0hnVu/Hyprland-Dots/issues)
 
 #### 🔧 Proper way to re-installing a particular script from install-scripts directory
 - CD into Debian-Hyprland Folder and then ran the below command. 
@@ -290,7 +291,7 @@ cd ~/Debian-Hyprland
 
 - [ ] Does not work in Debian Bookworm
 - [ ] sddm blackscreen when log-out
-- [ ] Installing SDDM if or any other Login Manager installed. See [`Issue 2 - SDDM`](https://github.com/JaKooLit/Debian-Hyprland/issues/2)
+- [ ] Installing SDDM if or any other Login Manager installed. See [`Issue 2 - SDDM`](https://github.com/j0hnVu/Debian-Hyprland/issues/2)
 - [ ] network is down or become unmanaged [`This`](https://askubuntu.com/questions/71159/network-manager-says-device-not-managed) might help
 - [ ] pyprland is a hit and miss. Drop down not working, zooming is hit and miss
 
@@ -303,7 +304,7 @@ cd ~/Debian-Hyprland
 #### ⏩ Contributing
 - As stated above, these script does not contain actual config files. These are only the installer of packages
 - The development branch of this script is pulling the latest "stable" releases of the Hyprland-Dotfiles.
-- If you want to contribute and/or test the Hyprland-Dotfiles (development branch), [`Hyprland-Dots-Development`](https://github.com/JaKooLit/Hyprland-Dots/tree/development) 
+- If you want to contribute and/or test the Hyprland-Dotfiles (development branch), [`Hyprland-Dots-Development`](https://github.com/j0hnVu/Hyprland-Dots/tree/development) 
 
 
 #### 👍👍👍 Thanks and Credits!
@@ -311,7 +312,7 @@ cd ~/Debian-Hyprland
 
 
 ### 💖 Support
-- a Star on my Github repos would be nice 🌟
+- a Star on JaKooLit Github repos would be nice 🌟
 
 - Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit) 
 
@@ -328,5 +329,4 @@ cd ~/Debian-Hyprland
                         
 ## 🥰🥰 💖💖 👍👍👍
 [![Stargazers over time](https://starchart.cc/JaKooLit/Debian-Hyprland.svg?variant=adaptive)](https://starchart.cc/JaKooLit/Debian-Hyprland)
-
                     
