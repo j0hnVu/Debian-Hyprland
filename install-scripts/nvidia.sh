@@ -4,7 +4,7 @@
 # UBUNTU USERS, FOLLOW README!
 
 nvidia_pkg=(
-  nvidia-driver
+# nvidia-driver - Will install beta nvidia driver below.
   firmware-misc-nonfree
   nvidia-kernel-dkms
   linux-headers-$(uname -r)
@@ -14,10 +14,6 @@ nvidia_pkg=(
   nvidia-vaapi-driver
 )
 
-# for ubuntu-nvidia owners! just delete #
-# sudo ubuntu-drivers install
-
-## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
 # Determine the directory where the script is located
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
@@ -56,7 +52,13 @@ add_to_file() {
     fi
 }
 
-# Install additional Nvidia packages
+# Install beta Nvidia driver
+echo "beta install test"
+cd "$PARENT_DIR"
+wget https://us.download.nvidia.com/XFree86/Linux-x86_64/555.58.02/NVIDIA-Linux-x86_64-555.58.02.run
+sh NVIDIA-Linux-x86_64-*.run
+
+# Install additional Nvidia packages (install missing package only. Older should not be install right?)
 printf "${YELLOW} Installing Nvidia packages...\n"
   for NVIDIA in "${nvidia_pkg[@]}"; do
     install_package "$NVIDIA" 2>&1 | tee -a "$LOG"
